@@ -21,9 +21,6 @@ This section presents the process undertaken during the formation of the predict
 
 ### Dataset link: https://www.kaggle.com/datasets/hugomathien/soccer
 
-## Contributors
-- Akshita Ishvarbhai Barot; NUID: 002704943
-- Gauri Jaydeep Patole; NUID: 002700996
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
